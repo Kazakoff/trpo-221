@@ -1,6 +1,6 @@
 package entity;
 // Generated 13.12.2021 16:06:44 by Hibernate Tools 4.3.1
-
+// master
 
 import java.util.Date;
 import javax.persistence.Column;
